@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bitcoin Ticker</string>
+    <string name="welcome_to_bitcoin_ticker">Welcome to\nBitcoin Ticker</string>
+    <string name="todo">TODO</string>
+    <string name="coins">Coins</string>
+    <string name="define_the_refresh_interval">Define the refresh interval</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorites</string>
+    <string name="currentPrice">%1$s $</string>
+    <string name="priceChange"> %% %1$s</string>
+    <string name="refresh_time_second">Refresh Time(Second)</string>
+    <string name="save">Save</string>
+    <string name="please_login_to_view_your_favorite_coins">Please login to view your favorite coins</string>
+</resources>

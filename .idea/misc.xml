@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/OKTAY/.gradle/caches/transforms-3/92063c37fea208e66c1fa9048183a7f8/transformed/preference-1.2.0/res/drawable/ic_arrow_down_24dp.xml" value="0.205" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/circle_green_box.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/favorite_button_selector.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/green_box.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/green_rectangle_gradient_box.xml" value="0.132" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/green_rectangle_rounded8_box.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/home_icon_selector.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_bitcoin.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/ic_bitcoin_pana.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/red_rectangle_rounded8_box.xml" value="0.132" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/splash_bg.xml" value="0.2595" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/drawable/white_rectangle_box.xml" value="0.1515" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/bottom_sheet_refresh_time.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/fragment_coin_detail.xml" value="0.2" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/fragment_favorites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/fragment_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/layout/item_coin.xml" value="0.2" />
+        <entry key="..\:/Users/OKTAY/Documents/AndoridKotlin/BitcoinTicker/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
