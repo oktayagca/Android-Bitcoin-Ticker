@@ -3,7 +3,7 @@ This is an basic bitcoin tracking application.
 
 ## Architecture
 
-<img src="https://github.com/oktayagca/Android-Food-Delivery/blob/master/ss/Architecture.png"  width="432" height="314"/>
+<img src="https://github.com/oktayagca/Android-Bitcoin-Ticker/blob/master/ss/Architecture.png"  width="432" height="314"/>
 
 ## Technologies and Libraries 
 - Minimum sdk level 21
@@ -21,4 +21,4 @@ This is an basic bitcoin tracking application.
 - Ssp and Sdp
 
 ## Application Screen Record
-<img src="https://github.com/oktayagca/Android-Food-Delivery/blob/master/ss/ss.gif"  width="208" height="432"/>
+<img src="https://github.com/oktayagca/Android-Bitcoin-Ticker/blob/master/ss/ss.gif"  width="208" height="432"/>
