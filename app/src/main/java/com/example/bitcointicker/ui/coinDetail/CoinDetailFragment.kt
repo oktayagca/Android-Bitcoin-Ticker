@@ -141,8 +141,8 @@ class CoinDetailFragment : BaseFragment<FragmentCoinDetailBinding>() {
 
     private fun observeIsFavoriteAndInitFavoriteButton(coinId: String) {
         if (!viewModel.isAuthUser()) {
-            requireContext().showToastMessage("Please login")
             binding.favoriteButton.setOnClickListener{
+                requireContext().showToastMessage("Please login")
                 navigateFragment(actionId = R.id.action_favoritesFragment_to_loginFragment)
             }
         } else{
