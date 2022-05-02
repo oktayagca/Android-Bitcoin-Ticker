@@ -3,7 +3,7 @@ This is an basic bitcoin tracking application.
 
 ## Architecture
 
-<img src="https://github.com/oktayagca/Android-Food-Delivery/blob/main/ss/onboarding_flow.gif"  width="432" height="314"/>
+<img src="https://github.com/oktayagca/Android-Food-Delivery/blob/main/ss/Architecture.png"  width="432" height="314"/>
 
 ## Technologies and Libraries 
 - Minimum sdk level 21
